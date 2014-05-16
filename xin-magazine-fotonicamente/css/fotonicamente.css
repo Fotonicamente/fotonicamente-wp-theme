@@ -1,0 +1,35 @@
+
+.top-bar .name h3 > a {
+    font-weight: bold;
+    color: white;
+    
+    padding: 0px 15px;
+}
+
+
+.widget-title {
+    font-size: 1.0em;
+    border-top: 3px solid #870303;
+    border-bottom: 1px solid #870303;
+    color: #870303;
+    padding: 0.25em 0px;
+    margin-bottom: 0px;
+}
+
+#footer-widget-area {
+     font-size: 0.8em;
+	 background: none repeat scroll 0% 0% #ccc;
+	 }
+	 
+	 
+p {font-family: inherit;font-weight: normal;font-size: 0.9em;line-height: 1.6;margin-bottom: 1.25em;text-rendering: optimizelegibility;}
+ul li ul, ul li ol {font-size: 0.9em;}
+ 
+button, .button {border-style: solid;border-width: 1px;cursor: pointer;font-family: inherit;font-weight: bold;line-height: 1;margin: 0px 0px 1.0em;position: relative;text-decoration: none;text-align: center;display: inline-block;padding: 0.75em 1.5em 0.8125em;font-size: 1em;background-color:#870303 ;border-color: rgb(34, 132, 161);color: white;}
+
+
+.top-bar-menu.right{color:#870303}
+a {
+    color: #530101;
+}
+img, object, embed {max-width: 100%;height: auto;}
