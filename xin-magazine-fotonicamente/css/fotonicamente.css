@@ -93,7 +93,7 @@ img, object, embed {
 #buddypress div#item-body {
    position: relative;
    margin-left: 155px;
-
+   padding-left: 5px;
 }
 
 #buddypress div#subnav.item-list-tabs{
